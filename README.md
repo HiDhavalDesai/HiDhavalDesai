@@ -4,6 +4,7 @@ I'm <a href="https://github.com/HiDhavalDesai">Dhaval Desai</a>, a software engi
 <strong>Let's Connect:</strong><br>
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@hidhavaldesai)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/hidhavaldesai)
+[<img alt="Youtube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white "/>](https://www.youtube.com/channel/UCUWSDusbJQcD1U-tJDPPVGg/)
 
 
 
