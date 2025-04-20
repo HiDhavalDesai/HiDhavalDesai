@@ -15,12 +15,8 @@ I'm <a href="https://github.com/HiDhavalDesai">Dhaval Desai</a>, a full stack de
 
 
 
-<!-- 
+![](https://nirzak-streak-stats.vercel.app/?user=HiDhavalDesai&theme=dark&hide_border=false)
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/hidhavaldesai)
-=======
-
-![](https://nirzak-streak-stats.vercel.app/?user=HiDhavalDesai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HiDhavalDesai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
