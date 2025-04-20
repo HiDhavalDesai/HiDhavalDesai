@@ -2,7 +2,7 @@
 I'm <a href="https://github.com/HiDhavalDesai">Dhaval Desai</a>, a software engineer. <br>
 
 <strong>My Tech Stack:</strong><br>
-
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="50">
 
 <br>
 <strong>Let's Talk Statistics:</strong><br><br>
