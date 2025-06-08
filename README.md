@@ -13,7 +13,6 @@ I'm <a href="https://github.com/HiDhavalDesai">Dhaval Desai</a>, a full stack de
 [<img alt="Youtube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white "/>](https://www.youtube.com/channel/UCUWSDusbJQcD1U-tJDPPVGg/)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hidhavaldesai/)
 [<img alt='Portfolio' src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" />](https://hidhavaldesai.github.io/portfolio)
-[<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dhavaldesai0226@gmail.com)
 
 
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=HiDhavalDesai&theme=dark&hide_border=false)
