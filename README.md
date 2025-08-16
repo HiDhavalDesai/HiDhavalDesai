@@ -5,7 +5,7 @@ I'm <a href="https://github.com/HiDhavalDesai">Dhaval Desai</a>, a full stack de
 <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="50" alt="logo of html, css and javascript">
 
 <br>
-<strong>Let's Talk Statistics: LET"S NOT!</strong><br><br>
+<strong>Let's Talk Statistics: POOP</strong><br><br>
 
 <strong>Let's Connect on:</strong><br>
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@hidhavaldesai)
